@@ -1,5 +1,7 @@
 # Real-Time Leaderboard System
 
+Project page: https://roadmap.sh/projects/realtime-leaderboard-system
+
 A backend for a real-time leaderboard service: user auth, score submission,
 global + per-game rankings, periodic "top players" reports, and live updates
 over Socket.io — all backed by **Redis Sorted Sets**.
